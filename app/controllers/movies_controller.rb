@@ -1,4 +1,4 @@
-require 'Iconv'
+
 
 class MoviesController < ApplicationController
 
